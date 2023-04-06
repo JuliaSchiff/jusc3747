@@ -14,7 +14,6 @@
 div#formcol1 {
 	float:left;	
 	width: 100%;
-    flood-color: aquamarine;
 }
 
 label {
@@ -22,6 +21,11 @@ label {
 width: 5em;
 display: inline-block
 }
+
+input:required:invalid {
+    background-color: #FFE4E1; /* Change the background color to a light pink shade */
+}
+
 
 /* end of form css */
 	
