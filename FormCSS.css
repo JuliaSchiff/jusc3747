@@ -22,8 +22,8 @@ width: 5em;
 display: inline-block
 }
 
-input:required:invalid {
-    background-color: #FFE4E1; /* Change the background color to a light pink shade */
+#formcol1 input.reqfield {
+	background: #FFE4E1
 }
 
 
