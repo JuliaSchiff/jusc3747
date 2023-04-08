@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+h1 {
+  color: #e75480;
+}
 
 /* form styling */
 #formcol1 li {
